@@ -1,62 +1,62 @@
 [
     {
         "id":1,
-        "image":"./assets/images/donkeykong.jpg",
+        "image":"./assets/images/donkeykong.png",
         "clicked": false
     },
     {
         "id":2,
-        "image":"./assets/images/drmario.jpg",
+        "image":"./assets/images/drmario.png",
         "clicked": false
     },    
     {
         "id":3,
-        "image":"./assets/images/kirby.jpg",
+        "image":"./assets/images/kirby.png",
         "clicked": false
     },    
     {
         "id":4,
-        "image":"./assets/images/link.jpg",
+        "image":"./assets/images/link.png",
         "clicked": false
     },    
     {
         "id":5,
-        "image":"./assets/images/luigi.jpg",
+        "image":"./assets/images/luigi.png",
         "clicked": false
     },    
     {
         "id":6,
-        "image":"./assets/images/mario.jpg",
+        "image":"./assets/images/mario.png",
         "clicked": false
     },    
     {
         "id":7,
-        "image":"./assets/images/megaman.jpg",
+        "image":"./assets/images/megaman.png",
         "clicked": false
     },    
     {
         "id":8,
-        "image":"./assets/images/ness.jpg",
+        "image":"./assets/images/ness.png",
         "clicked": false
     },    
     {
         "id":9,
-        "image":"./assets/images/pikachu.jpg",
+        "image":"./assets/images/pikachu.png",
         "clicked": false
     },    
     {
         "id":10,
-        "image":"./assets/images/samus.jpg",
+        "image":"./assets/images/samus.png",
         "clicked": false
     },    
     {
         "id":11,
-        "image":"./assets/images/villager.jpg",
+        "image":"./assets/images/villager.png",
         "clicked": false
     },    
     {
         "id":12,
-        "image":"./assets/images/yoshi.jpg",
+        "image":"./assets/images/yoshi.png",
         "clicked": false
     }
 ]
