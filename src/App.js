@@ -14,7 +14,7 @@ class App extends Component {
     characters,
     score: 0,
     topScore: 0,
-    message: "Click an image to begin",
+    message: "Click a brawler to begin",
     clicked: [],
   };
 
@@ -38,7 +38,7 @@ class App extends Component {
     } else {
       this.setState({ 
         characters: characters.sort(function(a, b) {return 0.5 - Math.random()}),
-        message: "Oops! That image was already clicked. Try again"
+        message: "Oops! Try again"
       });
       return this.reset();
     }

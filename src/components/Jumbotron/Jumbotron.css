@@ -1,5 +1,5 @@
 .jumbotron {
-    background: url(/assets/images/Background.png) no-repeat center center fixed;;
+    background: url(/public/assets/images/Background.jpg) no-repeat center center fixed;;
    	background-size: 100% auto;
     color: black;
     min-height: 300px;

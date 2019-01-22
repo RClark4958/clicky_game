@@ -5,10 +5,10 @@ const Jumbotron = props => (
   <div className="jumbotron jumbotron-fluid">
     <div className="container">
       <h1 className="display-4">
-        <strong>Clicky Game!</strong>
+        <strong>Super Clicky Game Ultimate</strong>
       </h1>
       <p className="lead">
-        {`Earn 1 point for clicking on an image yet to be clicked!`}
+        {`Click a brawler yet to be clicked. Score is reset when a previous brawler is clicked.`}
       </p>
     </div>
   </div>
