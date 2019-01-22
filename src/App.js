@@ -38,7 +38,7 @@ class App extends Component {
     } else {
       this.setState({ 
         characters: characters.sort(function(a, b) {return 0.5 - Math.random()}),
-        message: "Oops! Try again"
+        message: "Game Over! Click to restart!"
       });
       return this.reset();
     }
