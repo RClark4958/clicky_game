@@ -61,7 +61,7 @@ class App extends Component {
             image={characters.image}
           />
           ))}
-        <Footer/>
+        {/* <Footer/> */}
       </Wrapper>
     );
   }
